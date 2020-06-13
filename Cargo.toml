@@ -1,0 +1,9 @@
+[package]
+name = "tic-tac-toe"
+version = "0.1.0"
+authors = ["Jacob Handy <43211690+jacobhandy3@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
